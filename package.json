@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/mrsteele/nrjohnson/issues"
   },
-  "homepage": "https://github.com/mrsteele/nrjohnson#readme"
+  "homepage": "https://github.com/mrsteele/nrjohnson#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
